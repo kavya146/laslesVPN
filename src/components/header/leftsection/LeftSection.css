@@ -1,0 +1,11 @@
+.lefthead{
+    display: flex;   
+    padding: 15px;
+    width: 150px;
+}
+
+.lefthead-name{
+    padding: 9px;
+    font-size: larger;
+    font-weight:600;
+}
