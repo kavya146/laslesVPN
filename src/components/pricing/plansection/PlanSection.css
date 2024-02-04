@@ -1,8 +1,12 @@
 .box-style{
-    width: 270px;
-    height: 530px;
+    width: 330px;
+    height: 600px;
     border: 3px solid #DDDDDD;
     border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center; 
    
 }
 
@@ -17,5 +21,29 @@
 
 .box-style ul li::before {
     content: url(./ticklogo.svg);
-    margin-right: 25px 
+    margin-right: 25px;
+    position: relative;
+    top: 7px;
+}
+
+.select-style{
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 20px;
+    display: block;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+
+a:link{
+    background-color: white;
+}
+a:hover{
+    background-color: red;
+    color: white;
 }
