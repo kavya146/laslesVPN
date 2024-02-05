@@ -8,7 +8,7 @@ import spotifylogo from "./Spotify.svg";
 
 const Sponsor = () => {
   return (
-    <div className="container-style">
+    <div className="container">
       <div>
         <img src={netflixlogo}></img>
       </div>

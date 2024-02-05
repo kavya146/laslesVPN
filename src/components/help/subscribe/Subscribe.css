@@ -1,0 +1,55 @@
+.subscribe-box{
+    height: 230px;
+    width: 1140px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    
+}
+
+.subscribe-h1{
+  height: 80px;
+  width: 320px; 
+  margin: 5px;
+  
+}
+
+.subscribe-p{
+  height: 16px;
+  width: 340px;  
+}
+
+.subscribe-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+.subscribe-right{
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.sub-button{
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 10px;
+    display: block;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+ a:link{
+    background-color: red;
+}
+a:hover{
+    background-color: black;
+}
+

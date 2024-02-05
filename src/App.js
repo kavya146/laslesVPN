@@ -4,7 +4,9 @@ import Container from "./components/container/Container";
 import Feature from "./components/features/Features";
 import GlobalNetwork from "./components/global-network/Globalnetwork";
 import Header from "./components/header/Header";
+import Help from "./components/help/Help";
 import Pricing from "./components/pricing/Pricing";
+import Testimonial from "./components/testimonials/Testimonial";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Feature />
       <Pricing />
       <GlobalNetwork />
+      <Testimonial />
+      <Help />
     </div>
   );
 }

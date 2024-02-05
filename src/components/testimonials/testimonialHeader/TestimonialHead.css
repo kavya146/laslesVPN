@@ -1,17 +1,16 @@
-.networkheader-style{
+.testmonial-head{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.h1-style{
-    width: 383px;
-    height: 100px;
+.testmonial-h1{
+    height: 70px;
+    width: 430px;
     text-align: center;
 }
-
-.p-style{
+.testmonial-p{
     height: 60px;
-    width: 480px;
+    width: 545px;
     text-align: center;
 }
