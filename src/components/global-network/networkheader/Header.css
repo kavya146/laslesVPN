@@ -1,0 +1,17 @@
+.header-style{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1-style{
+    width: 383px;
+    height: 100px;
+    text-align: center;
+}
+
+.p-style{
+    height: 60px;
+    width: 480px;
+    text-align: center;
+}
