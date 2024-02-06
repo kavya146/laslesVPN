@@ -1,16 +1,10 @@
 import LeftFeature from "./leftfeature/LeftFeature";
 import RightFeature from "./rightfeature/RightFeature";
+import "./Features.css";
 
 const Feature = () => {
   return (
-    <div
-      style={{
-        display: "flex",
-        paddingTop: "100px",
-        justifyContent: "space-evenly",
-        alignItems: "center",
-      }}
-    >
+    <div className="feature-style">
       <LeftFeature />
       <RightFeature />
     </div>

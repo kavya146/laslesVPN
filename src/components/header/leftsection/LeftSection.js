@@ -7,9 +7,6 @@ const LeftSection = () => {
     <div className="lefthead">
       <div className="logo-style"></div>
       <img src={logo}></img>
-      <div className="lefthead-name">
-        Lasles<span style={{ fontWeight: "boldest" }}>VPN</span>
-      </div>
     </div>
   );
 };

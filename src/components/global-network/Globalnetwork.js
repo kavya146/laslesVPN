@@ -5,7 +5,7 @@ import Sponsor from "./sponsor/Sponsor";
 
 const GlobalNetwork = () => {
   return (
-    <div>
+    <div style={{ padding: "20px 0px 20px 0px" }}>
       <Header />
       <Map />
       <Sponsor />

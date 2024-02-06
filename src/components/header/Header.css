@@ -1,7 +1,11 @@
 .header-style{
     display: flex;
     justify-content: space-evenly;
-   
+    margin: 0px 350px 0px 200px;
+    position: sticky;
+    top:0;
+    background-color: white;
+    
 }
 
 

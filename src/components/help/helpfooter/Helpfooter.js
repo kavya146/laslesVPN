@@ -37,22 +37,34 @@ const HelpFooter = () => {
         <h4>Products</h4>
         <ul>
           <li>
-            <a href="#">Download</a>
+            <a className="help-a" href="#">
+              Download
+            </a>
           </li>
           <li>
-            <a href="#">Pricing</a>
+            <a className="help-a" href="#">
+              Pricing
+            </a>
           </li>
           <li>
-            <a href="#">Locations</a>
+            <a className="help-a" href="#">
+              Locations
+            </a>
           </li>
           <li>
-            <a href="#">Server</a>
+            <a className="help-a" href="#">
+              Server
+            </a>
           </li>
           <li>
-            <a href="#">Countries</a>
+            <a className="help-a" href="#">
+              Countries
+            </a>
           </li>
           <li>
-            <a href="#">Blog</a>
+            <a className="help-a" href="#">
+              Blog
+            </a>
           </li>
         </ul>
       </div>
@@ -61,22 +73,34 @@ const HelpFooter = () => {
         <h4>Engage</h4>
         <ul>
           <li>
-            <a href="#">LaslesVPN</a>
+            <a className="help-a" href="#">
+              LaslesVPN
+            </a>
           </li>
           <li>
-            <a href="#">FAQ</a>
+            <a className="help-a" href="#">
+              FAQ
+            </a>
           </li>
           <li>
-            <a href="#">Tutorials</a>
+            <a className="help-a" href="#">
+              Tutorials
+            </a>
           </li>
           <li>
-            <a href="#">About Us</a>
+            <a className="help-a" href="#">
+              About Us
+            </a>
           </li>
           <li>
-            <a href="#">Privacy Policy</a>
+            <a className="help-a" href="#">
+              Privacy Policy
+            </a>
           </li>
           <li>
-            <a href="#">Terms of Service</a>
+            <a className="help-a" href="#">
+              Terms of Service
+            </a>
           </li>
         </ul>
       </div>
@@ -85,10 +109,14 @@ const HelpFooter = () => {
         <h4>Earn Money</h4>
         <ul>
           <li>
-            <a href="#">Affiliate</a>
+            <a className="help-a" href="#">
+              Affiliate
+            </a>
           </li>
           <li>
-            <a href="#">Become Partner</a>
+            <a className="help-a" href="#">
+              Become Partner
+            </a>
           </li>
         </ul>
       </div>

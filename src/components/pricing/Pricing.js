@@ -4,7 +4,7 @@ import PlanSection from "./plansection/PlanSection";
 
 const Pricing = () => {
   return (
-    <div>
+    <div style={{ padding: "20px 0px 20px 0px" }}>
       <div>
         <HeadSection />
       </div>
