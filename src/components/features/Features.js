@@ -4,9 +4,11 @@ import "./Features.css";
 
 const Feature = () => {
   return (
-    <div className="feature-style">
-      <LeftFeature />
-      <RightFeature />
+    <div>
+      <div className="feature-style">
+        <LeftFeature />
+        <RightFeature />
+      </div>
     </div>
   );
 };

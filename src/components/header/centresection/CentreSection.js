@@ -4,11 +4,11 @@ import "./CentreSection.css";
 const CentreSection = () => {
   return (
     <div className="centrehead">
-      <div style={{ paddingRight: "20px" }}>About</div>
-      <div style={{ paddingRight: "20px" }}>Features</div>
-      <div style={{ paddingRight: "20px" }}>Pricing</div>
-      <div style={{ paddingRight: "20px" }}>Testimonials</div>
-      <div style={{ paddingRight: "20px" }}>Help</div>
+      <div style={{ marginRight: "40px" }}>About</div>
+      <div style={{ marginRight: "40px" }}>Features</div>
+      <div style={{ marginRight: "40px" }}>Pricing</div>
+      <div style={{ marginRight: "40px" }}>Testimonials</div>
+      <div>Help</div>
     </div>
   );
 };

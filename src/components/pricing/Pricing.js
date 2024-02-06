@@ -1,10 +1,11 @@
 import React from "react";
 import HeadSection from "./headsection/HeadSection";
 import PlanSection from "./plansection/PlanSection";
+import "./Pricing.css";
 
 const Pricing = () => {
   return (
-    <div style={{ padding: "20px 0px 20px 0px" }}>
+    <div className="pricing-style">
       <div>
         <HeadSection />
       </div>

@@ -6,10 +6,12 @@ import CentreSection from "./centresection/CentreSection";
 
 const Header = () => {
   return (
-    <div className="header-style">
-      <LeftSection />
-      <CentreSection />
-      <RightSection />
+    <div className="header">
+      <div className="header-container">
+        <LeftSection />
+        <CentreSection />
+        <RightSection />
+      </div>
     </div>
   );
 };

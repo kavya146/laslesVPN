@@ -1,0 +1,8 @@
+.pricing-style{
+    display: flex;
+    flex-direction: column;
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+}
