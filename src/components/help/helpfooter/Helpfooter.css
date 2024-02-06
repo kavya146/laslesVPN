@@ -1,0 +1,23 @@
+.helpfooter-p{
+    height: 60px;
+    width: 320px;
+}
+
+h4{
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+a:link{
+    color: #4F5665;
+    text-decoration: none;
+   
+}
+a:hover{
+    text-decoration: underline;
+   
+   
+}
